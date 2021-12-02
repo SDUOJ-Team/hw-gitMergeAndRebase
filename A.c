@@ -1,4 +1,4 @@
 #include <stdio.h>
 int main() {
-    printf("A: a good feature");
+    printf("A: a good feature"); // A
 }
